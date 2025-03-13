@@ -24,7 +24,8 @@ The dataset has `2,039` samples containing information about objects near the us
 
 ### Classification
 
-(Preliminary) - Official results will be released soo.
+Monson, P.M.d.C.; Dias, V.T.; Sousa, G.O.d.; David, G.A.; Dotto, F.R.L.; Conceição Junior, P.d.O. An Extreme Gradient Boosting Approach for Elderly Falls Classification. Eng. Proc. 2024, 82, 91. https://doi.org/10.3390/ecsa-11-20441
+
 ### Main results
 
 - Best result (08/12/2024): For classification, it was possible to achieve an accuracy of **100.00%**.
